@@ -1,0 +1,6 @@
+{
+  "version": "2.1.0",
+  "mandatory": true,
+  "notes": "Correction du bug de scan et amélioration de l'interface.",
+  "url": "https://api.github.com/repos/TON_PSEUDO/TON_REPO/releases/assets/LATEST_ASSET_ID"
+}
