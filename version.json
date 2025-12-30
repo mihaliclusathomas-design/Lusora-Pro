@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
+  "version": "2.0.0",
   "url": "https://github.com/mihaliclusathomas-design/Lusa-Software/releases/download/release/Lusa.Gestion.Setup.2.1.0.exe",
   "mandatory": true,
-  "notes": "Mise à jour corrective 2.1.0 :\n- Correction de l'erreur TS2688 (types Node.js)\n- Nettoyage des imports inutilisés dans App.tsx\n- Amélioration de la stabilité du système de fichiers"
+  "notes": "Mise à jour corrective 2.0.0 :\n- Correction de l'erreur TS2688 (types Node.js)\n- Nettoyage des imports inutilisés dans App.tsx\n- Amélioration de la stabilité du système de fichiers"
 }
