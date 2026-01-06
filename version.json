@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "url": "https://github.com/mihaliclusathomas-design/Lusora-Pro/releases/download/release/Lusa.Software.Setup.2.0.3.exe",
   "mandatory": true,
-  "notes": "Mise à jour corrective 2.1.1 : Correction des Jours fériés et amélioration du Module Prime (calcul auto de la rétro)"
+  "notes": "Mise à jour corrective 2.1.2 : Correction des Jours fériés et amélioration du Module Prime (calcul auto de la rétro)"
 }
